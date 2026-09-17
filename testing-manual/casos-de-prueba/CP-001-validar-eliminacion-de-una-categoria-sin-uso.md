@@ -23,3 +23,9 @@ Estado de la prueba:
 ✅ PASS 
 
 Evidencia:
+![Evidencia 1](../evidencias/CP-001-validar-eliminacion-de-una-categoria-sin-uso/Captura%20de%20pantalla%202026-09-09%20232903.png)
+
+![Evidencia 2](../evidencias/CP-001-validar-eliminacion-de-una-categoria-sin-uso/Captura%20de%20pantalla%202026-09-09%20232920.png)
+
+![Evidencia 3](../evidencias/CP-001-validar-eliminacion-de-una-categoria-sin-uso/Captura%20de%20pantalla%202026-09-09%20232938.png)
+
