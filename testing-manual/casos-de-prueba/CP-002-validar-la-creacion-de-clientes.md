@@ -39,3 +39,9 @@ El sistema creo correctamente el cliente y lo muestra en la lista de clientes
 Estado de la prueba: ✅ PASS
 
 Evidencia:
+
+![Evidencia 1](../evidencias/CP-002-validar-la-creacion-de-clientes/Captura%20de%20pantalla%202026-09-17%20163344.png)
+
+![Evidencia 2](../evidencias/CP-002-validar-la-creacion-de-clientes/Captura%20de%20pantalla%202026-09-17%20163355.png)
+
+![Evidencia 3](../evidencias/CP-002-validar-la-creacion-de-clientes/Captura%20de%20pantalla%202026-09-17%20163409.png)
