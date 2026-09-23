@@ -30,3 +30,11 @@ El usuario puede consultar las categorías, pero no puede crear, editar ni elimi
 
 
 Estado: ✅ PASS 
+
+## Evidencia
+
+### 1. Vista de categorías en modo solo lectura
+![Evidencia 1](../evidencias/CP-013-validar-acceso-de-solo-lectura-en-categorias/1q.png)
+
+### 2. Validación de acceso sin permisos de edición
+![Evidencia 2](../evidencias/CP-013-validar-acceso-de-solo-lectura-en-categorias/2q.png)
