@@ -32,3 +32,17 @@ El sistema permitió poder editar la categoría Zapatillas y cambiar de nombre p
 
 Estado de la prueba:
 ✅ PASS
+
+## Evidencia ✅ PASS
+
+### 1. Categoría original
+![Evidencia 1](../evidencias/CP-011-validar-la-edicion-de-una-categoria-existente/1c.png)
+
+### 2. Edición de la categoría
+![Evidencia 2](../evidencias/CP-011-validar-la-edicion-de-una-categoria-existente/2c.png)
+
+### 3. Categoría modificada
+![Evidencia 3](../evidencias/CP-011-validar-la-edicion-de-una-categoria-existente/3c.png)
+
+### 4. Verificación final
+![Evidencia 4](../evidencias/CP-011-validar-la-edicion-de-una-categoria-existente/4c.png)
