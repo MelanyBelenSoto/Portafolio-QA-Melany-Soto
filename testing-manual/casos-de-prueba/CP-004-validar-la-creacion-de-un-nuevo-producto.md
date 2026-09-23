@@ -81,17 +81,17 @@ Estado de la prueba:
  ❌ FAIL
 ## Evidencia - Ejecución 1 ❌ FAIL
 
-### FALLO 1 - Identificación
-![FALLO 1 - Identificación](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/FAIL-01-identificacion.png)
+### 1. Identificación
+![Fallo 1](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/fallo%201.png)
 
-### FALLO 2 - Abastecimiento
-![FALLO 2 - Abastecimiento](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/FAIL-02-abastecimiento.png)
+### 2. Abastecimiento
+![Fallo 2](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/fallo%202.png)
 
-### FALLO 3 - Precios
-![FALLO 3 - Precios](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/FAIL-03-precios.png)
+### 3. Precios
+![Fallo 3](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/fallo%203.png)
 
-### FALLO 4 - Mensaje de validación
-![FALLO 4 - Mensaje de validación](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/FAIL-04-mensaje-validacion.png)
+### 4. Mensaje de validación
+![Fallo 4](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/fallo%204.png)
 
-### FALLO 5 - Bloqueo al avanzar
-![FALLO 5 - Bloqueo al avanzar](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/FAIL-05-bloqueo.png)
+### 5. Bloqueo al avanzar
+![Fallo 5](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/fallo%205.png)
