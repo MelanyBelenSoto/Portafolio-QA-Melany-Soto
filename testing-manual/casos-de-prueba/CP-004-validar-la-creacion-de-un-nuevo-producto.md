@@ -82,16 +82,16 @@ Estado de la prueba:
 ## Evidencia - Ejecución 1 ❌ FAIL
 
 ### 1. Identificación
-![FAIL 1](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/fail%201.png)
+![Fail 1](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/fail%201%20.png)
 
 ### 2. Abastecimiento
-![FAIL 2](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/fail%202.png)
+![Fail 2](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/fail%202%20.png)
 
 ### 3. Precios
-![FAIL 3](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/fail%203.png)
+![Fail 3](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/fail%203%20.png)
 
 ### 4. Mensaje de validación
-![FAIL 4](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/fail%204.png)
+![Fail 4](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/fail%204%20.png)
 
 ### 5. Bloqueo al avanzar
-![FAIL 5](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/fail%205.png)
+![Fail 5](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/fail%205%20.png)
