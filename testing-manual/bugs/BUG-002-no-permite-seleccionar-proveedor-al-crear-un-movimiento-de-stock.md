@@ -68,3 +68,9 @@ Severidad: 🔴 Bloqueante
 [5q.png](../evidencias/BUG-002-no-permite-seleccionar-proveedor-al-crear-un-movimiento-de-stock/5q.png)
 
 ![5q.png](../evidencias/BUG-002-no-permite-seleccionar-proveedor-al-crear-un-movimiento-de-stock/5q.png)
+
+## Caso de prueba relacionado
+
+**CP-007 - Validar la carga de un nuevo movimiento de stock**
+
+Este bug fue detectado durante la ejecución del CP-007, al intentar seleccionar un proveedor obligatorio para poder guardar el movimiento de stock.
