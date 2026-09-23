@@ -32,3 +32,14 @@ El sistema permitió dar de alta el almacén correctamente y el almacén creado 
 
 Estado de la prueba:
 ✅ PASS
+
+## Evidencia ✅ PASS
+
+### 1. Datos del almacén
+![Evidencia 1](../evidencias/CP-008-validar-la-creacion-de-un-nuevo-almacen/1a.png)
+
+### 2. Almacén guardado
+![Evidencia 2](../evidencias/CP-008-validar-la-creacion-de-un-nuevo-almacen/2a.png)
+
+### 3. Verificación final
+![Evidencia 3](../evidencias/CP-008-validar-la-creacion-de-un-nuevo-almacen/3a.png)
