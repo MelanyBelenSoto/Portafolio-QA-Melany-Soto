@@ -54,19 +54,19 @@ El sistema no permite consultar ni seleccionar proveedores. Al ser un campo obli
 
 Estado de la prueba:
  ❌ FAIL
- ## Evidencia
+## Evidencia
 
 ### Evidencia 1
-![Evidencia 1](../evidencias/1v.png)
+![Evidencia 1](../evidencias/CP-007-validar-la-carga-de-un-nuevo-movimiento-de-stock/1v.png)
 
 ### Evidencia 2
-![Evidencia 2](../evidencias/2v.png)
+![Evidencia 2](../evidencias/CP-007-validar-la-carga-de-un-nuevo-movimiento-de-stock/2v.png)
 
 ### Evidencia 3
-![Evidencia 3](../evidencias/3v.png)
+![Evidencia 3](../evidencias/CP-007-validar-la-carga-de-un-nuevo-movimiento-de-stock/3v.png)
 
 ### Evidencia 4
-![Evidencia 4](../evidencias/4v.png)
+![Evidencia 4](../evidencias/CP-007-validar-la-carga-de-un-nuevo-movimiento-de-stock/4v.png)
 
 ### Evidencia 5
-![Evidencia 5](../evidencias/5v.png)
+![Evidencia 5](../evidencias/CP-007-validar-la-carga-de-un-nuevo-movimiento-de-stock/5v.png)
