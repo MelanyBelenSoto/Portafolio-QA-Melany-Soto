@@ -81,12 +81,17 @@ Estado de la prueba:
  ❌ FAIL
 ### Evidencia - Ejecución 1 ❌ FAIL
 
-![FAIL 1](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/11.png)
+#### 1. Identificación
+![Identificación](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/11.png)
 
-![FAIL 2](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/111.png)
+#### 2. Abastecimiento
+![Abastecimiento](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/111.png)
 
-![FAIL 3](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/1111.png)
+#### 3. Precios
+![Precios](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/1111.png)
 
-![FAIL 4](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/11111.png)
+#### 4. Mensaje de validación
+![Mensaje de validación](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/11111.png)
 
-![FAIL 5](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/153cd05b-26f9-4a87-8050-2a06e4839ee5.png)
+#### 5. Bloqueo al continuar
+![Bloqueo](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/153cd05b-26f9-4a87-8050-2a06e4839ee5.png)
