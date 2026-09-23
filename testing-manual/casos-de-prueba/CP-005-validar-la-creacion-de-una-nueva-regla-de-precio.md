@@ -35,8 +35,6 @@ Pasos:
 9- presionar guardar 
 
 Resultado esperado:
-
-
 Que el Sitema guarde correctamente y se muestre en la lista de reglas de precio 
 
 Resultado obtenido:
@@ -44,3 +42,14 @@ El sistema guardo correctamente y se mostró en la lista de reglas de precio
 
 Estado de la prueba:
 ✅ PASS
+
+## Evidencia ✅ PASS
+
+### 1. Datos de la regla
+![Evidencia 1](../evidencias/CP-005-validar-la-creacion-de-una-nueva-regla-de-precio/1p.png)
+
+### 2. Regla guardada correctamente
+![Evidencia 2](../evidencias/CP-005-validar-la-creacion-de-una-nueva-regla-de-precio/2p.png)
+
+### 3. Verificación final
+![Evidencia 3](../evidencias/CP-005-validar-la-creacion-de-una-nueva-regla-de-precio/3p.png)
