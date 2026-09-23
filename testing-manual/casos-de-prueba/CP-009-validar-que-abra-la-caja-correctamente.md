@@ -30,3 +30,11 @@ El sistema permitió cargar saldo y observación y pudo abrir la caja correctame
 
 Estado de la prueba:
 ✅ PASS 
+
+## Evidencia
+
+### Evidencia 1
+![Evidencia 1](../evidencias/CP-009-validar-que-abra-la-caja-correctamente/1c.png)
+
+### Evidencia 2
+![Evidencia 2](../evidencias/CP-009-validar-que-abra-la-caja-correctamente/2c.png)
