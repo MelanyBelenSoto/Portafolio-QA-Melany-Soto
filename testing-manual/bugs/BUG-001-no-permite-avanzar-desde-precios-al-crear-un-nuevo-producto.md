@@ -49,3 +49,24 @@ Impacto:
 El usuario no puede completar el alta de un nuevo producto.
 
 Severidad: 🔴 Bloqueante 
+
+## Evidencia
+
+### Evidencia 1
+![Evidencia 1](../evidencias/BUG-001-no-permite-avanzar-desde-precios-al-crear-un-nuevo-producto/1b.png)
+
+### Evidencia 2
+![Evidencia 2](../evidencias/BUG-001-no-permite-avanzar-desde-precios-al-crear-un-nuevo-producto/2b.png)
+
+### Evidencia 3
+![Evidencia 3](../evidencias/BUG-001-no-permite-avanzar-desde-precios-al-crear-un-nuevo-producto/3b.png)
+
+### Evidencia 4
+![Evidencia 4](../evidencias/BUG-001-no-permite-avanzar-desde-precios-al-crear-un-nuevo-producto/4b.png)
+
+### Evidencia 5
+![Evidencia 5](../evidencias/BUG-001-no-permite-avanzar-desde-precios-al-crear-un-nuevo-producto/5b.png)
+
+## Caso de prueba relacionado
+
+CP-004 - Validar la creación de un nuevo producto
