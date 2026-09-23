@@ -221,7 +221,7 @@ El sistema permitió cargar datos del producto y darlo de alta correctamente mos
 
 Estado de la prueba:
 
-PASS 
+PASS ✅
 
 
 Evidencia:
