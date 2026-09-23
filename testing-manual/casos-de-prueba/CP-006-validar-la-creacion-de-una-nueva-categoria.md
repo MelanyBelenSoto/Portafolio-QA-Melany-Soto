@@ -33,13 +33,13 @@ El sistema creó una nueva categoría correctamente y lo mostró en la la lista 
 Estado de la prueba:
 ✅ PASS
 
-## Evidencia de la prueba
+## Evidencia
 
-### Paso 1
-![Paso 1](../evidencias/CP-006-validar-la-creación-de-una-nueva-categoria/1c.png)
+### 1. Evidencia 1
+![Evidencia 1](../evidencias/CP-006-validar-la-creación-de-una-nueva-categoria/1c.png)
 
-### Paso 2
-![Paso 2](../evidencias/CP-006-validar-la-creación-de-una-nueva-categoria/2c.png)
+### 2. Evidencia 2
+![Evidencia 2](../evidencias/CP-006-validar-la-creación-de-una-nueva-categoria/2c.png)
 
-### Paso 3
-![Paso 3](../evidencias/CP-006-validar-la-creación-de-una-nueva-categoria/3c.png)
+### 3. Evidencia 3
+![Evidencia 3](../evidencias/CP-006-validar-la-creación-de-una-nueva-categoria/3c.png)
