@@ -224,4 +224,37 @@ Estado de la prueba:
 PASS ✅
 
 
-Evidencia:
+## Evidencia - Retesting ✅ PASS
+
+### Evidencia 1
+![PASS 1](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/pass1.png)
+
+### Evidencia 2
+![PASS 2](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/pass2.png)
+
+### Evidencia 3
+![PASS 3](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/pass3.png)
+
+### Evidencia 4
+![PASS 4](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/pass4.png)
+
+### Evidencia 5
+![PASS 5](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/pass5.png)
+
+### Evidencia 6
+![PASS 6](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/pass6.png)
+
+### Evidencia 7
+![PASS 7](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/pass7.png)
+
+### Evidencia 8
+![PASS 8](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/pass8.png)
+
+### Evidencia 9
+![PASS 9](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/pass9.png)
+
+### Evidencia 10
+![PASS 10](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/pass10.png)
+
+### Evidencia 11
+![PASS 11](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/pass11.png)
