@@ -32,3 +32,14 @@ El sistema permitió crear correctamente un tipo de medida y lo mostro en la lis
 
 Estado de la prueba:
 ✅ PASS 
+
+## Evidencia ✅ PASS
+
+### 1. Datos del tipo de medida
+![Evidencia 1](../evidencias/CP-010-validar-la-creacion-de-un-nuevo-tipo-de-medida/1m.png)
+
+### 2. Tipo de medida guardado
+![Evidencia 2](../evidencias/CP-010-validar-la-creacion-de-un-nuevo-tipo-de-medida/2m.png)
+
+### 3. Verificación final
+![Evidencia 3](../evidencias/CP-010-validar-la-creacion-de-un-nuevo-tipo-de-medida/3m.png)
