@@ -79,3 +79,14 @@ El sistema permanece en el paso 3 Precios y no permite avanzar al paso 4 Imagen,
 
 Estado de la prueba:
  ❌ FAIL
+### Evidencia - Ejecución 1 ❌ FAIL
+
+![FAIL 1](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/11.png)
+
+![FAIL 2](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/111.png)
+
+![FAIL 3](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/1111.png)
+
+![FAIL 4](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/11111.png)
+
+![FAIL 5](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/153cd05b-26f9-4a87-8050-2a06e4839ee5.png)
