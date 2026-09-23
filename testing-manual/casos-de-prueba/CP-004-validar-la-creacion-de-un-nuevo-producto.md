@@ -79,19 +79,19 @@ El sistema permanece en el paso 3 Precios y no permite avanzar al paso 4 Imagen,
 
 Estado de la prueba:
  ❌ FAIL
-### Evidencia - Ejecución 1 ❌ FAIL
+## Evidencia - Ejecución 1 ❌ FAIL
 
-#### 1. Identificación
-![Identificación](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/11.png)
+### FALLO 1 - Identificación
+![FALLO 1 - Identificación](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/FAIL-01-identificacion.png)
 
-#### 2. Abastecimiento
-![Abastecimiento](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/111.png)
+### FALLO 2 - Abastecimiento
+![FALLO 2 - Abastecimiento](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/FAIL-02-abastecimiento.png)
 
-#### 3. Precios
-![Precios](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/1111.png)
+### FALLO 3 - Precios
+![FALLO 3 - Precios](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/FAIL-03-precios.png)
 
-#### 4. Mensaje de validación
-![Mensaje de validación](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/11111.png)
+### FALLO 4 - Mensaje de validación
+![FALLO 4 - Mensaje de validación](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/FAIL-04-mensaje-validacion.png)
 
-#### 5. Bloqueo al continuar
-![Bloqueo](../evidencias/CP-004-validar-la-creacion-de-un-nuevo-producto/153cd05b-26f9-4a87-8050-2a06e4839ee5.png)
+### FALLO 5 - Bloqueo al avanzar
+![FALLO 5 - Bloqueo al avanzar](../evidencias/CP-004-validar-la-creación-de-un-nuevo-producto/FAIL-05-bloqueo.png)
