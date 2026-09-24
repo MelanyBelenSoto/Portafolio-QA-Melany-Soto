@@ -27,4 +27,19 @@ HAVING COUNT(*) > 10;
 
 ## Resultado
 
-Las consultas se ejecutaron correctamente y permitieron filtrar los grupos según la cantidad de registros obtenidos.
+Las consultas se ejecutaron correctamente y permitieron filtrar los grupos según la cantidad de registros obtenidos
+
+
+## Evidencias
+
+### Consulta 1 - Países con más de 3 clientes
+
+![Consulta 1 - Países con más de 3 clientes](../evidencias/SQL-09-HAVING/Captura%20de%20pantalla%202026-09-24%20180359.png)
+
+### Consulta 2 - Categorías con más de 5 productos
+
+![Consulta 2 - Categorías con más de 5 productos](../evidencias/SQL-09-HAVING/Captura%20de%20pantalla%202026-09-24%20180509.png)
+
+### Consulta 3 - Clientes con más de 10 pedidos
+
+![Consulta 3 - Clientes con más de 10 pedidos](../evidencias/SQL-09-HAVING/Captura%20de%20pantalla%202026-09-24%20180529.png)
