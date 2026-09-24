@@ -6,7 +6,7 @@ Obtener valores calculados de los productos utilizando funciones agregadas de SQ
 
 ## Consulta 1 - Precio promedio
 
-SELECT AVG(PrecioUnidad) AS PrecioPromedio
+SELECT ROUND(AVG(precio), 2) AS PrecioPromedio
 FROM productos;
 
 
