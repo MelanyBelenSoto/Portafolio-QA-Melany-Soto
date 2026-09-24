@@ -23,3 +23,14 @@ WHERE Pais = 'Argentina';
 
 ## Resultado
 Las consultas se ejecutaron correctamente y mostraron únicamente los registros que cumplen cada condición.
+
+## Evidencias
+
+### Consulta 1 - Rio de Janeiro
+![WHERE Rio de Janeiro](../evidencias/SQL-02-WHERE/Captura%20de%20pantalla%202026-09-24%20110242.png)
+
+### Consulta 2 - Brasil
+![WHERE Brasil](../evidencias/SQL-02-WHERE/Captura%20de%20pantalla%202026-09-24%20110058.png)
+
+### Consulta 3 - Argentina
+![WHERE Argentina](../evidencias/SQL-02-WHERE/Captura%20de%20pantalla%202026-09-24%20105853.png)
